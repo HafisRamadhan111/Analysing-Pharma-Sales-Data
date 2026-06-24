@@ -1,4 +1,5 @@
 # Analysing-Pharma-Sales-Data
+project url:https://roadmap.sh/projects/pharmaceutical-sales-data
 
 This repository contains a Python-based analysis of daily pharmaceutical sales data. The project uses `Pandas` for data manipulation and `Matplotlib` for data visualization to answer key business questions regarding drug sales trends.
 
