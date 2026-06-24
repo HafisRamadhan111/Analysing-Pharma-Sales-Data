@@ -23,5 +23,5 @@ Key Questions Answered
 Results Preview
 Based on the analysis, **N02BE** emerged as the category with the highest average daily sales (~29.92 units), and **Respiratory Drugs (R03)** reached their peak sales during December.
 
-## 📂 Dataset
+Dataset
 The analysis is performed on `salesdaily.csv`, which includes daily transactional data categorized by ATC codes.
